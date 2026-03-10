@@ -1,1 +1,1 @@
-# P.Induja
+Rice leaf disease diagonosis system.
